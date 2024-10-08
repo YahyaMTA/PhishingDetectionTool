@@ -1,0 +1,7 @@
+tkinter
+pandas
+numpy
+nltk
+beautifulsoup4
+scikit-learn
+joblib
